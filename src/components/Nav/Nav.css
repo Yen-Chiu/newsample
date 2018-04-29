@@ -1,0 +1,9 @@
+sr-only {
+    border: 3px solid red;
+    color: white;
+    font-size: 28px;
+}
+
+.text {
+    color: white;
+}
