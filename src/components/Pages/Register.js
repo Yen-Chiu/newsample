@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import FormBtn from "../Form/FormBtn";
 import Input from "../Form/Input";
 import TextArea from "../Form/TextArea";
 import Nav from "../Nav/Nav";
@@ -14,7 +13,6 @@ class Register extends Component {
                 <h4>Register Page</h4>
                 <Input />
                 <TextArea />
-                <FormBtn />
             </div>
         )
     }

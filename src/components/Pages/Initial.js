@@ -1,8 +1,6 @@
 import React, {Component} from "react";
 import Nav from "../Nav/Nav";
 import {Col, Row, Container} from "../Grid";
-import UserBtn from "../Button/UserBtn";
-import BusBtn from "../Button/BusBtn";
 import Pane from "../Pane/Pane";
 import { Link, Route } from "react-router-dom";
 import Login from "../Pages/Login";
